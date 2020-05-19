@@ -1,7 +1,6 @@
 //----------------------------------------------------------------------
 // Author: Michael Calmette
 // File:   linked_list_collection.h
-//
 // TODO: An implemented version of the Collection abstract class.  This
 // has all of the files from the file and are written here.  
 //----------------------------------------------------------------------
