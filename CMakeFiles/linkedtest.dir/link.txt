@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/linkedtest.dir/linked_test.cpp.o  -o linkedtest -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

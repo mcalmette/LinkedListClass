@@ -1,0 +1,4 @@
+/home/student/Desktop/LinkedList/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/LinkedList/CMakeFiles/edit_cache.dir
+/home/student/Desktop/LinkedList/CMakeFiles/linkedtest.dir
+/home/student/Desktop/LinkedList/CMakeFiles/linkedperf.dir
